@@ -1,8 +1,8 @@
 # data-science-base
 
-A base repo for data science projects. Clone this repo and change the repo name
-and its remote configurations to start a new datascience project. Change the
-README before pushing to github. Change the conda enviroment name in environment.yml before creating
+A base repo for data science projects. Clone this repo and change the its name
+(and its remotes) to start a new datascience project. Change your
+README before pushing unless you want to look very silly. Change the conda enviroment name in environment.yml before creating
 a new virtual environment. Add packages needed for for specific projects to the version of environment.yaml in the **renamed** repo.
 
 ##### Run The Following To Build A New Environment:
