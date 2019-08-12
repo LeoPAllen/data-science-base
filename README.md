@@ -15,6 +15,11 @@ conda env create -f=environment.yml
 conda env update -f=environment.yml
 ```
 
+##### Create Kernel For IPython & Jupyter:
+```
+python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+```
+
 ###### Create a .env File With Environment Variables By Running The Following:
 ```
 nano .env
